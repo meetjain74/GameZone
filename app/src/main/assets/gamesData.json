@@ -1,0 +1,337 @@
+[
+  {
+    "name": "Sudoko",
+    "imageUrl": "https://i.pinimg.com/originals/89/36/77/893677e1214a83e4ce56989d343c62c2.png",
+    "gameUrl": "https://247sudoku.com/",
+    "rating":"4.6",
+    "keywords": [
+      "Puzzle",
+      "Logic",
+      "Casual"
+    ]
+  },
+  {
+    "name": "Mahjong",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVaI2CitnSquTtSFY6Pq6Y198QCSK1PkHzBQ&usqp=CAU",
+    "gameUrl": "https://www.247mahjong.com/",
+    "rating": "4.7",
+    "keywords": [
+      "Puzzle",
+      "Casual"
+    ]
+  },
+  {
+    "name": "Word Search",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqBidHjynjmWXWon8VXiXxTvw_mLvskZtkPg&usqp=CAU",
+    "gameUrl": "https://www.247wordsearch.com/",
+    "rating": "4.1",
+    "keywords": [
+      "Puzzle",
+      "Search",
+      "Casual"
+    ]
+  },
+  {
+    "name": "Space Rocks",
+    "imageUrl": "https://static.casino.guru/pict/133469/Space-Rocks.jpg?timestamp=1597795200000&imageDataId=26451&width=320",
+    "gameUrl": "https://www.247spacerocks.com/",
+    "rating": "4.7",
+    "keywords": [
+      "Arcade",
+      "Action"
+    ]
+  },
+  {
+    "name": "Solitaire",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcDULfgyEoXfxCTudLk0QVr0DyycophmoowA&usqp=CAU",
+    "gameUrl": "https://www.247solitaire.com/",
+    "rating": "4.5",
+    "keywords": [
+      "Card",
+      "Puzzle"
+    ]
+  },
+  {
+    "name": "Chess",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg",
+    "gameUrl": "https://www.247chess.com/",
+    "rating": "4.6",
+    "keywords": [
+      "Strategy",
+      "Board",
+      "Casual"
+    ]
+  },
+  {
+    "name": "Checkers",
+    "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/05/24/23/05242340-f222-ac13-420f-144f83ea0387/source/512x512bb.jpg",
+    "gameUrl": "https://www.247checkers.com/",
+    "rating": "4.3",
+    "keywords": [
+      "Board",
+      "Casual"
+    ]
+  },
+  {
+    "name": "Backgammon",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfhOLFciTYCZ-w2CQiG_fYnGI8pv2WCYCdbA&usqp=CAU",
+    "gameUrl": "https://www.247backgammon.org/",
+    "rating": "3.8",
+    "keywords": [
+      "Board",
+      "Casual"
+    ]
+  },
+  {
+    "name": "Roulette",
+    "imageUrl": "https://media.istockphoto.com/vectors/stylish-casino-text-on-roulette-wheel-on-black-leather-fabric-can-be-vector-id1130414339?k=6&m=1130414339&s=612x612&w=0&h=7THE0ffn2iSeWgtsIk3UfXeYoAROJ_T5Kj82SVu9CRY=",
+    "gameUrl": "https://www.247roulette.org/",
+    "rating": "3.6",
+    "keywords": [
+      "Casino",
+      "Table"
+    ]
+  },
+  {
+    "name": "Jigsaw Puzzles",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGpFt9D1tRYiY81W1uyuWaekwJbAwzTKcfug&usqp=CAU",
+    "gameUrl": "https://www.jigsawplanet.com/",
+    "rating": "4.5",
+    "keywords": [
+      "Jigsaw",
+      "Puzzle",
+      "Casual"
+    ]
+  },
+  {
+    "name": "Chess Online With Friends",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1oRpxxMRisn3B0t735TWfKuhjqhkPLQPzo6WPwscI3Aq63jWTButnH6szmapRSRY1AU&usqp=CAU",
+    "gameUrl": "https://lichess.org/",
+    "rating": "4.9",
+    "keywords": [
+      "Strategy",
+      "Online"
+    ]
+  },
+  {
+    "name": "Tic Tac Toe",
+    "imageUrl": "https://image.freepik.com/free-vector/tic-tac-toe-game_97886-854.jpg",
+    "gameUrl": "https://gametable.org/games/tic-tac-toe/",
+    "rating": "4.2",
+    "keywords": [
+      "Casual",
+      "Abstract"
+    ]
+  },
+  {
+    "name": "Skribbl",
+    "imageUrl": "https://cdn.game.tv/game-tv-content/images_3/4821cd7a042a28ca7c40f615e9204e5f/4821cd7a042a28ca7c40f615e9204e5f/GameTile.jpg",
+    "gameUrl": "https://skribbl.io/",
+    "rating": "3.2",
+    "keywords": [
+      "Art",
+      "Draw",
+      "Casual"
+    ]
+  },
+  {
+    "name": "Basket slide",
+    "imageUrl": "https://freegames.org/images/basket-slide.png",
+    "gameUrl": "https://freegames.org/basket-slide/",
+    "rating": "3.0",
+    "keywords": [
+      "Puzzle",
+      "Casual"
+    ]
+  },
+  {
+    "name": "Super Brick Ball",
+    "imageUrl": "https://freegames.org/images/super-brick-ball.png",
+    "gameUrl": "https://freegames.org/super-brick-ball/",
+    "rating": "4.4",
+    "keywords": [
+      "Arcade",
+      "Puzzle"
+    ]
+  },
+  {
+    "name": "Brick Bash",
+    "imageUrl": "https://freegames.org/images/brick-bash-2.jpg",
+    "gameUrl": "https://freegames.org/brick-bash-2/",
+    "rating": "4.3",
+    "keywords": [
+      "Arcade",
+      "Puzzle"
+    ]
+  },
+  {
+    "name": "Bubble Shooter",
+    "imageUrl": "https://freegames.org/images/bubble-shooter-levels.jpg",
+    "gameUrl": "https://freegames.org/bubble-shooter-levels/",
+    "rating": "4.2",
+    "keywords": [
+      "Puzzle",
+      "Arcade"
+    ]
+  },
+  {
+    "name": "Slice Fruit",
+    "imageUrl": "https://freegames.org/images/slice-fruit.jpg",
+    "gameUrl": "https://freegames.org/slice-fruit/",
+    "rating": "4.2",
+    "keywords": [
+      "Action",
+      "Casual"
+    ]
+  },
+  {
+    "name": "Hex Pipes",
+    "imageUrl": "https://freegames.org/images/hex-pipes.png",
+    "gameUrl": "https://freegames.org/hex-pipes/",
+    "rating": "4.2",
+    "keywords": [
+      "Puzzle",
+      "Casual"
+    ]
+  },
+  {
+    "name": "Reversi",
+    "imageUrl": "https://freegames.org/images/reversi.jpg",
+    "gameUrl": "https://freegames.org/reversi/",
+    "rating": "4.4",
+    "keywords": [
+      "Board"
+    ]
+  },
+  {
+    "name": "Unfold: Bomb Puzzles",
+    "imageUrl": "https://freegames.org/images/unfold-3.png",
+    "gameUrl": "https://freegames.org/unfold-3/",
+    "rating": "3.5",
+    "keywords": [
+      "Puzzle",
+      "Casual"
+    ]
+  },
+  {
+    "name": "2048",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/2048_logo.png",
+    "gameUrl": "https://freegames.org/2048/",
+    "rating": "4.8",
+    "keywords": [
+      "Puzzle",
+      "Merge",
+      "Casual"
+    ]
+  },
+  {
+    "name": "2048 Solitaire",
+    "imageUrl": "https://freegames.org/images/2048-solitaire.png",
+    "gameUrl": "https://freegames.org/2048-solitaire/",
+    "rating": "4.2",
+    "keywords": [
+      "Puzzle",
+      "Card"
+    ]
+  },
+  {
+    "name": "Fill Maze",
+    "imageUrl": "https://freegames.org/images/fill-maze.png",
+    "gameUrl": "https://freegames.org/fill-maze/",
+    "rating": "4.1",
+    "keywords": [
+      "Puzzle",
+      "Casual"
+    ]
+  },
+  {
+    "name": "Odd one out",
+    "imageUrl": "https://freegames.org/images/odd-one-out.png",
+    "gameUrl": "https://freegames.org/odd-one-out/",
+    "rating": "4.0",
+    "keywords": [
+      "Puzzle"
+    ]
+  },
+  {
+    "name": "Puzzle Blocks",
+    "imageUrl": "https://freegames.org/images/puzzle-blocks-ancient.png",
+    "gameUrl": "https://freegames.org/puzzle-blocks-ancient/",
+    "rating": "4.3",
+    "keywords": [
+      "Casual",
+      "Puzzle"
+    ]
+  },
+  {
+    "name": "Choppy Tower",
+    "imageUrl": "https://freegames.org/images/choppy-tower.png",
+    "gameUrl": "https://freegames.org/choppy-tower/",
+    "rating": "3.8",
+    "keywords": [
+      "Arcade"
+    ]
+  },
+  {
+    "name": "LightBulb Physics",
+    "imageUrl": "https://freegames.org/images/lightbulb-physics.png",
+    "gameUrl": "https://freegames.org/lightbulb-physics/",
+    "rating": "3.8",
+    "keywords": [
+      "Arcade"
+    ]
+  },
+  {
+    "name": "Unblocked",
+    "imageUrl": "https://freegames.org/images/unblocked.png",
+    "gameUrl": "https://freegames.org/unblocked/",
+    "rating": "4.3",
+    "keywords": [
+      "Puzzle",
+      "Sliding",
+      "Casual"
+    ]
+  },
+  {
+    "name": "Snakes and ladders",
+    "imageUrl": "https://freegames.org/images/snakes-and-ladders.png",
+    "gameUrl": "https://freegames.org/snakes-and-ladders/",
+    "rating": "3.8",
+    "keywords": [
+      "Board",
+      "Dice",
+      "Casual"
+    ]
+  },
+  {
+    "name": "Hidden Object: Pirate Treasure",
+    "imageUrl": "https://freegames.org/images/hidden-object-pirate-treasure.jpg",
+    "gameUrl": "https://freegames.org/hidden-object-pirate-treasure/",
+    "rating": "4.2",
+    "keywords": [
+      "Adventure",
+      "Casual"
+    ]
+  },
+  {
+    "name": "Stock Car Hero",
+    "imageUrl": "https://freegames.org/images/stock-car-hero.jpg",
+    "gameUrl": "https://freegames.org/stock-car-hero/",
+    "rating": "4.3",
+    "keywords": [
+      "Racing",
+      "Car"
+    ]
+  },
+  {
+    "name": "Minesweeper",
+    "imageUrl": "https://freegames.org/images/minesweeper.png",
+    "gameUrl": "https://freegames.org/minesweeper/",
+    "rating": "4.5",
+    "keywords": [
+      "Logic",
+      "Puzzle",
+      "Casual"
+    ]
+  }
+]
